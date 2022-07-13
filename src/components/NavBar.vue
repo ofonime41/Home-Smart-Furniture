@@ -10,10 +10,10 @@
            </ul>
            </div>
 
-          <div id="image " class="z-10 md:ml-10 text-center hover:opacity-75"><img class="w-30 md:w-70  md:block" src="@/assets/img/logo.svg" alt="logo"></div>
-           <div class="hidden md:block">
+          <div id="image " class="z-10 md:ml-10 text-center hover:opacity-75"><img class="w-70" src="@/assets/img/logo.svg" alt="logo"></div>
+           <div class="hidden md:flex space-x-5">
             <button class="bg-red-500 text-white text-lg rounded  px-6 py-2 mx-4 duration-500 hover:opacity-75">LOGIN</button>
-            <button class="bg-gray-900 text-white text-lg rounded  px-6 py-2 mx-4 duration-500 hover:opacity-75">LOGIN</button>
+            <button class="bg-gray-900 text-white text-lg rounded  px-6 py-2 mx-4 duration-500 hover:opacity-75">SIGNUP</button>
          </div>
 
         <button id="menu-btn" class="flex ml-40 mr-20 items-center hamburger md:hidden focus:outline-none z-[40]" >
